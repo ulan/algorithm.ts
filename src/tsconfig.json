@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "declaration": true,
+        "noImplicitAny": true
+    },
+    "filesGlob": [
+        "./**/*.ts"
+    ],
+    "files": [
+        "./Graph.d.ts",
+        "./Graph.ts",
+        "./RedBlackTree.d.ts",
+        "./RedBlackTree.ts"
+    ]
+}
